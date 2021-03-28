@@ -4,7 +4,7 @@ Hello there 👋
 
 
 - 🔭 I’m currently working on OnePostMan
-- 🌱 I’m currently learning NgRx
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on MEAN stack apps
 - 🤔 I’m looking for help with design
 - 💬 Ask me about Tech/Memes/Cats
